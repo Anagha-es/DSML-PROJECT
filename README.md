@@ -8,7 +8,7 @@ This project focuses on building a predictive model to estimate the energy outpu
 
 ## 📂 Dataset Information
 
-- **Source**: [UCI Machine Learning Repository - Wave Energy Converters Dataset](https://archive.ics.uci.edu/dataset/1047/wave+energy+converters)
+- **Source**: [UCI Machine Learning Repository - Wave Energy Converters Dataset](https://archive.ics.uci.edu/dataset/494/wave+energy+converters)
 - **Type**: CSV files (no headers)
 - **Regions Covered**: Adelaide, Perth, Sydney, Tasmania
 - **Features**: 48 numerical columns (environmental and device parameters)
