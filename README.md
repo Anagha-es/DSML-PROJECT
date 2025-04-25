@@ -75,21 +75,6 @@ This project focuses on building a predictive model to estimate the energy outpu
 
 ---
 
-## 📦 Installation & Usage
-
-```bash
-# Clone this repo
-git clone https://github.com/your-username/wave-energy-ml.git
-
-# Navigate to project folder
-cd wave-energy-ml
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the notebook
-jupyter notebook dsml_project_new.ipynb
-
 
 
 👩‍💻 Author
